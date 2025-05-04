@@ -11,10 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "sass": "^1.87.0",
     "spotify-clone": "file:"
-  },
-  "devDependencies": {
-    "npm-force-resolutions": "^0.0.10"
   }
 }
